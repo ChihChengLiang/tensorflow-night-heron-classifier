@@ -33,19 +33,19 @@ Final test accuracy = 76.4%
 
 ![](img/malayan_1.jpg)
 
-malayan night heron (score = 0.78996)
-night heron (score = 0.21004)
+- malayan night heron (score = 0.78996)
+- night heron (score = 0.21004)
 
 #### Malayan Night Heron 2
 
 ![](img/malayan_2.jpg)
 
-malayan night heron (score = 0.99932)
-night heron (score = 0.00068)
+- malayan night heron (score = 0.99932)
+- night heron (score = 0.00068)
 
 #### Night Heron
 
 ![](img/night_heron_1.jpg)
 
-night heron (score = 0.94634)
-malayan night heron (score = 0.05366)
+- night heron (score = 0.94634)
+- malayan night heron (score = 0.05366)
