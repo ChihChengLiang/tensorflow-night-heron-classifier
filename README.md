@@ -5,7 +5,7 @@ This is the repository developed for 'Image Classifier in TensorFlow in 5 Min on
 
 Scientists can use this classifier to automatically label whether a bird image is of a Malayan Night Heron or of a Night Heron.
 
-So the bird on the left is a malayan night heron and the right is night heron.
+So the bird on the top is a malayan night heron and the bottom is night heron.
 
 ![](img/malayan_1.jpg)
 
